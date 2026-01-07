@@ -1,6 +1,6 @@
 # Introducción a las Finanzas y a la empresa
 ## Semestre: 2026-2
-### 11 de Agosto al 2 de febrero de 2026
+### Del 2 de febrero al 10 de junio de 2026
 ### Licenciatura en Ciencia de Datos
 
 <img src="imagenes/image.gif" align="right" height="250" width="250" hspace="10">
@@ -14,7 +14,7 @@
 
 **Profesor:** Eduardo Selim Martínez Mayorga (eduardo.selim@ciencias.unam.mx)
 
-**Adjunto:** Luis Enrique Villalón Pineda (a@ciencias.unam.mx)
+**Adjunto:** Luis Enrique Villalón Pineda (lenriquev13@ciencias.unam.mx)
 
 1. Introducción a las finanzas y a la empresa
 1.1 La empresa y su organización
@@ -58,7 +58,7 @@
 
 1. Brun, X., & Moreno, M. (2008). Análisis y selección de inversiones en mercados financieros. Barcelona: Profit Editorial.
 2. Castañeda González, F., & Aguirre Álvarez, J. (2000). Manual de finanzas corporativas (2a. ed.). Editorial de la Universidad de Santiago de Chile.
-3. Damodaran, A. (2011). Applied Corporate Finance: A user ́s Manual. (3a ed.). United States of America: John Wiley & Sons, Inc.
+3. Damodaran, A. (2011). Applied Corporate Finance: A user's Manual. (3a ed.). United States of America: John Wiley & Sons, Inc.
 4. Gitman, Lawrence J. y Michael Joehnk (2009). Fundamentos de inversiones, décima edición, trad. de Miguel Ángel Sánchez Carrión, México, Pearson Educación.
 5. Graham, J., Smart, S. y Megginson, W. (2011). Finanzas corporativas: el vínculo entre la teoría y lo que las empresas hacen. (3a ed). EUA: Cengage.
 6. Ross, S. A., Westerfield, R. W. y Jaffe, J. (2012). Corporate Finance. (9a ed.). EUA: McGraw Hill.
@@ -92,6 +92,6 @@ El curso será evaluado de la siguiente manera:
 <img src="imagenes/calendario_unam.png" align="right" height="350" width="250" hspace="8">
 
 ## Exámenes Parciales
-+ Parcial 1 (30\%). Profesor titular. Lunes 6 de octubre de 2025.
-+ Parcial 2 (30\%): Profesor adjunto (Teoría de Portafolios). Viernes 28 de noviembre de 2025.
-+ Examen final (20\%): Miércoles 26 de noviembre de 2025.
++ Parcial 1 (30\%). Profesor titular. Martes 24 de marzo de 2026.
++ Parcial 2 (30\%): Profesor adjunto (Teoría de Portafolios). Jueves 28 de mayo de 2026.
++ Examen final (20\%): Martes 26 de mayo de 2026.
